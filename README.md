@@ -22,7 +22,7 @@ You will:
 
 ## Files Included
 
-- `Week1-Assignment.md`: Detailed assignment instructions
+- `Week1-Assignment.md`: https://1drv.ms/i/c/327285acf7301c79/EZuo3apz30lGp2W3SIcXbu8B3KVDBFW5tISQRnIzu4FrvQ?e=hqnbJT
 - `insert_books.js`: Script to populate your MongoDB database with sample book data
 
 ## Requirements
